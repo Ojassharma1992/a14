@@ -1,0 +1,17 @@
+:root{
+    /*--theme: #2c39df;*/
+    /*--theme: #3176dd;*/
+    --theme: #0096d6;
+}
+a{
+    color: var(--theme);
+}
+.cusbtn{
+    background-color: var(--theme) !important;
+    border-color: var(--theme) !important;
+}
+.btn-theme {
+    background-color: var(--theme) !important;
+    border-color: var(--theme) !important;
+    color: #fff !important;
+}
